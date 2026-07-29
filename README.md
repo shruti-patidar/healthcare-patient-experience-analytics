@@ -146,44 +146,6 @@ This project follows a **Star Schema** architecture to improve analytical perfor
 
 ---
 
-# 📊 Dashboard Preview
-
-## Executive Overview
-
-![Executive Overview](Dashboard%20Screenshots/Executive%20Overview.png)
-
----
-
-## State Performance
-
-![State Performance](Dashboard%20Screenshots/State%20Performance.png)
-
----
-
-## Patient Experience Measures
-
-![Patient Experience Measures](Dashboard%20Screenshots/Patient%20Experience%20Measures.png)
-
----
-
-## National vs State Benchmark
-
-![National vs State Benchmark](Dashboard%20Screenshots/National%20vs%20State%20Benchmark.png)
-
----
-
-## Regional Performance
-
-![Regional Performance](Dashboard%20Screenshots/Regional%20Performance.png)
-
----
-
-## Trend Analysis
-
-![Trend Analysis](Dashboard%20Screenshots/Trend%20Analysis.png)
-
----
-
 # 💡 Business Insights
 
 The dashboard enables healthcare leaders to:
